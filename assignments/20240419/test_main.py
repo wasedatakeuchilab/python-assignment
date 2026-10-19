@@ -1,5 +1,4 @@
 import pytest
-
 from main import fibo
 
 FIBONACCI_SEQUENCE = {
